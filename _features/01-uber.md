@@ -5,7 +5,7 @@ heading: Uber Visa
 subheading: "レストラン"
 image: "assets/img/uber.png"
 ---
-レストランで<string>４％</strong>。
+レストランで<strong>４％</strong>。
 いくつかの喫茶店でうまくいかない。<br />
 ❌ Caffe Bene <br />
 ❌ Brookside <br />
