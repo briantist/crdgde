@@ -6,6 +6,6 @@ subheading: "📅"
 image: "assets/img/freedom.png"
 ---
 <strong>10月</strong>から<strong>12月</strong>まで<strong>5%</strong>
-✔️　デパート
-✔️　コストコ、ビージェーズ、クラブのサム
+✔️　デパート <br />
+✔️　コストコ、ビージェーズ、クラブのサム <br />
 ✔️　Chase Pay
