@@ -2,10 +2,10 @@
 id: uber
 name: Uber Visa
 heading: Uber Visa
-subheading: "　レストラン"
+subheading: "レストラン"
 image: "assets/img/uber.png"
 ---
-
+レストランで<string>４％</strong>。
 いくつかの喫茶店でうまくいかない。<br />
 ❌ Caffe Bene <br />
 ❌ Brookside <br />
