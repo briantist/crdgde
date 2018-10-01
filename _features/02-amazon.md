@@ -11,4 +11,4 @@ image: "assets/img/amazon.png"
 🉑アマゾン <br />
 🉑ホール•フージ <br />
 <br />
-🍔レストランで２％。
+🍔レストランで２％
