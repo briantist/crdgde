@@ -5,5 +5,8 @@ heading: Amazon Visa
 subheading: "Whole Foods"
 image: "assets/img/amazon.png"
 ---
-アマゾンとホール•フージで<strong>５％</strong>。<br />
-レストランで２％。
+<strong>５％</strong><br />
+🉑アマゾン <br />
+🉑ホール•フージ <br />
+<br />
+🍔レストランで２％。

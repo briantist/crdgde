@@ -5,4 +5,4 @@ heading: Citi Double
 subheading: "ほかのすべて"
 image: "assets/img/citi.png"
 ---
-🉑　ほかのすべてで<strong>２％</strong>。
+🉑ほかのすべてで<strong>２％</strong>。
