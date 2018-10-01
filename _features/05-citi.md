@@ -2,7 +2,7 @@
 id: citi
 name: Citi Double
 heading: Citi Double
-subheading: "⭐ほかのすべて"
+subheading: "ほかのすべて"
 image: "assets/img/citi.png"
 ---
-ほかのすべてで<strong>２％</strong>。
+🉑　ほかのすべてで<strong>２％</strong>。
