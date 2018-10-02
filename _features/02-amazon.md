@@ -9,6 +9,6 @@ image: "assets/img/amazon.png"
 <br />
 <strong>５％</strong><br />
 🉑アマゾン <br />
-🉑ホール•フージ <br />
+🉑ホール・フーヅ <br />
 <br />
 🍔レストランで２％
