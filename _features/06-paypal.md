@@ -1,8 +1,8 @@
 ---
-id: citi
-name: Citi Double
-heading: Citi Double
+id: paypal
+name: PayPal Cash Back
+heading: PayPal Cash Back
 subheading: "ほかのすべて"
-image: "assets/img/citi.png"
+image: "assets/img/paypal.png"
 ---
 🉑ほかのすべてで　【Everything Else】<strong>２％</strong>
