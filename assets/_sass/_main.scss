@@ -5,6 +5,7 @@ main {
   img {
     // @extend .img-circle;
     @extend .img-responsive;
+    max-height: 300px;
 
     &.pull-left {  margin-right: 40px;  }
     &.pull-right {  margin-left: 40px;  }
