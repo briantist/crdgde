@@ -7,5 +7,5 @@ image: "assets/img/ink.png"
 ---
 <strong>３％</strong><br />
 🚕旅行【Uber/Lyft/タクシー/列車】 <br />
-📱電話サービス【Simple Mobile】 <br />
+📱電話サービス【Simple Mobile, Optimum】 <br />
 📦出荷と郵便物【Shipping】
