@@ -9,6 +9,6 @@ image: "assets/img/amazon.png"
 <br />
 <strong>５％</strong><br />
 🉑アマゾン 【Amazon】<br />
-🉑ホール・フーヅ 【Whole Foods】<br />
+🛒ホール・フーヅ 【Whole Foods】<br />
 <br />
-🍔レストランで２％
+🍔レストラン【Restaurants】で２％
