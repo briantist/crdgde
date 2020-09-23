@@ -14,17 +14,19 @@ image: "assets/img/flex.png"
 🍔レストラン【Restaurants】<br />
 💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br />
 <br />
-<strong>7月</strong>から<strong>9月</strong>まで<strong>5%</strong> <br />
-🉑アマゾン 【Amazon】<br />
-🛒ホール・フーヅ 【Whole Foods】<br />
+<strong>10月</strong>から<strong>12月</strong>まで<strong>5%</strong> <br />
+💸ペイパル 【PayPal】　<br />
+🏬ワル・マート 【Walmart】　<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
 
 <!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
 
 <!-- 🏬デパート 【Department Stores】　<br /> -->
-<!-- 🅿️ペイパル 【PayPal】　<br /> -->
 <!-- 🏦チェース・ペイ・アプリ 【Chase Pay】　<br /> -->
+
+<!-- 🉑アマゾン 【Amazon】<br /> -->
+<!-- 🛒ホール・フーヅ 【Whole Foods】<br /> -->
 
 
 <!-- 📱電話サービス【Simple Mobile, Optimum】 <br /> -->
