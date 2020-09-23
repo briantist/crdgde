@@ -6,11 +6,12 @@ subheading: "📅"
 image: "assets/img/flex.png"
 ---
 <strong>５％</strong><br />
-<span style="color: deeppink"><strong>Lyft</strong></span><br />
-🛒食料品店・9月２０２１年 【Grocery Stores til Sep-2021】<br />
+<span style="color: deeppink"><strong>🚕Lyft</strong></span><br />
+🛒食料品店・9月２０２１年まで<br />
+【Grocery Stores til Sep-2021】<br />
 <br />
 <strong>３％</strong><br />
-🍔レストラン【Restaurants】
+🍔レストラン【Restaurants】<br />
 💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br />
 <br />
 <strong>7月</strong>から<strong>9月</strong>まで<strong>5%</strong> <br />

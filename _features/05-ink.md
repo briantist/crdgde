@@ -6,7 +6,7 @@ subheading: "旅行と電話"
 image: "assets/img/ink.png"
 ---
 <strong>５％</strong><br />
-<span style="color: deeppink"><strong>Lyft</strong></span><br /><br />
+<span style="color: deeppink"><strong>🚕Lyft</strong></span><br /><br />
 <strong>３％</strong><br />
 🚕旅行【Uber/Taxi/タクシー/列車】 <br />
 🏨ホテル【Hotels】
