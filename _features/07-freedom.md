@@ -6,10 +6,10 @@ subheading: "📅"
 image: "assets/img/freedom.png"
 ---
 <strong>５％</strong><br />
-<span style="color: deeppink"><strong>Lyft</strong></span><br /><br />
-<strong>7月</strong>から<strong>9月</strong>まで<strong>5%</strong> <br />
-🉑アマゾン 【Amazon】<br />
-🛒ホール・フーヅ 【Whole Foods】<br />
+<span style="color: deeppink"><strong>🚕Lyft</strong></span><br /><br />
+<strong>10月</strong>から<strong>12月</strong>まで<strong>5%</strong> <br />
+💸ペイパル 【PayPal】　<br />
+🏬ワル・マート 【Walmart】　<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
 
@@ -17,8 +17,10 @@ image: "assets/img/freedom.png"
 <!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
 
 <!-- 🏬デパート 【Department Stores】　<br /> -->
-<!-- 🅿️ペイパル 【PayPal】　<br /> -->
 <!-- 🏦チェース・ペイ・アプリ 【Chase Pay】　<br /> -->
+
+<!-- 🉑アマゾン 【Amazon】<br /> -->
+<!-- 🛒ホール・フーヅ 【Whole Foods】<br /> -->
 
 
 <!-- 📱電話サービス【Simple Mobile, Optimum】 <br /> -->
