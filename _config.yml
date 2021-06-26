@@ -1,6 +1,6 @@
-title: 陽子のカード
-description: 陽子のカード
-sitename: 陽子のカード
+title: カードは使い方
+description: カードは使い方
+sitename: カードは使い方
 baseurl: '/'
 sass:
   sass_dir: /assets/_sass
