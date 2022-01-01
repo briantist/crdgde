@@ -7,18 +7,18 @@ image: "assets/img/flex.png"
 ---
 <strong>５％</strong><br />
 <span style="color: deeppink"><strong>🚕Lyft</strong></span><br />
-🛒食料品店・9月２０２１年まで<br />
-【Grocery Stores til Sep-2021】<br />
-<br />
 <strong>３％</strong><br />
 🍔レストラン【Restaurants】<br />
 💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br />
 <br />
-<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
-💸ペイパル 【PayPal】　<br />
-🏬ワル・マート 【Walmart】　<br />
+<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
+🛒食料品店 【Grocery Stores】　<br />
+🛍eBay <br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 💸ペイパル 【PayPal】　<br /> -->
+<!-- 🏬ワル・マート 【Walmart】　<br /> -->
 
 <!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
 <!-- 🔨ホームセンター 【Home Improvement Stores】 <br /> -->
@@ -26,8 +26,6 @@ image: "assets/img/flex.png"
 <!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
 <!-- 📱電話サービス【Simple Mobile, Optimum】 <br /> -->
 <!-- 🎵ストリーミングサービス【Spotify, Netflix, Apple Music】 <br /> -->
-
-<!-- 🛒食料品店 【Grocery Stores】　<br /> -->
 
 <!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
 
