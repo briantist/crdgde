@@ -8,14 +8,16 @@ image: "assets/img/flex.png"
 <strong>５％</strong><br />
 <span style="color: deeppink"><strong>🚕Lyft</strong></span><br />
 <strong>３％</strong><br />
-🍔レストラン【Restaurants】<br />
-💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br />
+🉑アマゾン 【Amazon】<br />
 <br />
-<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
+<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
 🛒食料品店 【Grocery Stores】　<br />
 🛍eBay <br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 🍔レストラン【Restaurants】<br /> -->
+<!-- 💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br /> -->
 
 <!-- 💸ペイパル 【PayPal】　<br /> -->
 <!-- 🏬ワル・マート 【Walmart】　<br /> -->
@@ -32,7 +34,6 @@ image: "assets/img/flex.png"
 <!-- 🏬デパート 【Department Stores】　<br /> -->
 <!-- 🏦チェース・ペイ・アプリ 【Chase Pay】　<br /> -->
 
-<!-- 🉑アマゾン 【Amazon】<br /> -->
 <!-- 🛒ホール・フーヅ 【Whole Foods】<br /> -->
 
 
