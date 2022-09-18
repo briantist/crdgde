@@ -5,9 +5,12 @@ heading: Discover
 subheading: "📅"
 image: "assets/img/discover.png"
 ---
-<strong>7月</strong>から<strong>9月末</strong>まで<strong>5%</strong> <br />
-🍔レストラン【Restaurants】 <br />
-💸【PayPal】<br />
+<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
+📙アマゾン【Amazon.com】<br />
+📳電子財布【Apple, Google, Samsung Pay】<br />
+
+<!-- 🍔レストラン【Restaurants】 <br /> -->
+<!-- 💸【PayPal】<br /> -->
 
 <!-- 🎯ターゲット 【Target】　<br /> -->
 <!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
@@ -15,7 +18,6 @@ image: "assets/img/discover.png"
 <!-- 🛒食料品店 【Grocery Stores】　<br /> -->
 <!-- 💪フィットネスクラブ　【Gym/Fitness Club】 <br /> -->
 
-<!-- 📙アマゾン 【Amazon.com】<br /> -->
 <!-- 🏬ワル・マート 【Walmart.com Online Only】　<br /> -->
 
 <!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
