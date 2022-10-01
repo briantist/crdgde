@@ -10,20 +10,20 @@ image: "assets/img/flex.png"
 <strong>３％</strong><br />
 🉑アマゾン 【Amazon】<br />
 <br />
-<strong>7月</strong>から<strong>9月末</strong>まで<strong>5%</strong> <br />
-⛽ガソリンスタンド 【Gas Stations】　<br />
-🚗レンタカー【Car Rental】　<br />
+<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
+💸ペイパル 【PayPal】　<br />
+🏬ワル・マート 【Walmart】　<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
+<!-- 🚗レンタカー【Car Rental】　<br /> -->
 
 <!-- 🛒食料品店 【Grocery Stores】　<br /> -->
 <!-- 🛍eBay <br /> -->
 
 <!-- 🍔レストラン【Restaurants】<br /> -->
 <!-- 💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br /> -->
-
-<!-- 💸ペイパル 【PayPal】　<br /> -->
-<!-- 🏬ワル・マート 【Walmart】　<br /> -->
 
 <!-- 🔨ホームセンター 【Home Improvement Stores】 <br /> -->
 
