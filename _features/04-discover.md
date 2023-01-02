@@ -5,7 +5,7 @@ heading: Discover
 subheading: "📅"
 image: "assets/img/discover.png"
 ---
-<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
+<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
 🛒食料品店 【Grocery Stores】　<br />
 💊薬局　【Pharmacies/Drug Stores】<br />
 
