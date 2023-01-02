@@ -10,16 +10,19 @@ image: "assets/img/flex.png"
 <strong>３％</strong><br />
 🉑アマゾン 【Amazon】<br />
 <br />
-<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
-💸ペイパル 【PayPal】　<br />
-🏬ワル・マート 【Walmart】　<br />
+<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
+🛒食料品店 【Grocery Stores】　<br />
+🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br />
+🎯ターゲット 【Target】　<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 💸ペイパル 【PayPal】　<br /> -->
+<!-- 🏬ワル・マート 【Walmart】　<br /> -->
 
 <!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
 <!-- 🚗レンタカー【Car Rental】　<br /> -->
 
-<!-- 🛒食料品店 【Grocery Stores】　<br /> -->
 <!-- 🛍eBay <br /> -->
 
 <!-- 🍔レストラン【Restaurants】<br /> -->
@@ -30,8 +33,6 @@ image: "assets/img/flex.png"
 <!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
 <!-- 📱電話サービス【Simple Mobile, Optimum】 <br /> -->
 <!-- 🎵ストリーミングサービス【Spotify, Netflix, Apple Music】 <br /> -->
-
-<!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
 
 <!-- 🏬デパート 【Department Stores】　<br /> -->
 <!-- 🏦チェース・ペイ・アプリ 【Chase Pay】　<br /> -->
