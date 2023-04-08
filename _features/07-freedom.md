@@ -7,12 +7,15 @@ image: "assets/img/freedom.png"
 ---
 <strong>５％</strong><br />
 <span style="color: deeppink"><strong>🚕Lyft</strong></span><br /><br />
-<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
-🛒食料品店 【Grocery Stores】　<br />
+<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br />
 🎯ターゲット 【Target】　<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 🛒食料品店 【Grocery Stores】　<br /> -->
+<!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
+<!-- 🎯ターゲット 【Target】　<br /> -->
 
 <!-- 💸ペイパル 【PayPal】　<br /> -->
 <!-- 🏬ワル・マート 【Walmart】　<br /> -->
