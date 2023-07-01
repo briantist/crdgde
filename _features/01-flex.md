@@ -10,11 +10,13 @@ image: "assets/img/flex.png"
 <strong>３％</strong><br />
 🉑アマゾン 【Amazon】<br />
 <br />
-<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
-🔨ローズ 【Lowe's Home Improvement Store】 <br />
-📙アマゾン【Amazon.com】<br />
+<strong>7月</strong>から<strong>9月末</strong>まで<strong>5%</strong> <br />
+⛽ガソリンスタンド 【Gas Stations】　<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 🔨ローズ 【Lowe's Home Improvement Store】 <br /> -->
+<!-- 📙アマゾン【Amazon.com】<br /> -->
 
 <!-- 🛒食料品店 【Grocery Stores】　<br /> -->
 <!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
@@ -23,7 +25,6 @@ image: "assets/img/flex.png"
 <!-- 💸ペイパル 【PayPal】　<br /> -->
 <!-- 🏬ワル・マート 【Walmart】　<br /> -->
 
-<!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
 <!-- 🚗レンタカー【Car Rental】　<br /> -->
 
 <!-- 🛍eBay <br /> -->
