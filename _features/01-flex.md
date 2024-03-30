@@ -10,16 +10,19 @@ image: "assets/img/flex.png"
 <strong>３％</strong><br />
 🉑アマゾン 【Amazon】<br />
 <br />
-<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
-💸ペイパル 【PayPal】　<br />
-🏬卸売クラブ【Warehouse Clubs】 <br />
+<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
+🍔レストラン【Restaurants】<br />
+📙アマゾン【Amazon.com】<br />
+🏨ホテル【Hotels】<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 💸ペイパル 【PayPal】　<br /> -->
+<!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
 
 <!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
 
 <!-- 🔨ローズ 【Lowe's Home Improvement Store】 <br /> -->
-<!-- 📙アマゾン【Amazon.com】<br /> -->
 
 <!-- 🛒食料品店 【Grocery Stores】　<br /> -->
 <!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
@@ -31,7 +34,6 @@ image: "assets/img/flex.png"
 
 <!-- 🛍eBay <br /> -->
 
-<!-- 🍔レストラン【Restaurants】<br /> -->
 <!-- 💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br /> -->
 
 <!-- 🔨ホームセンター 【Home Improvement Stores】 <br /> -->

@@ -7,11 +7,15 @@ image: "assets/img/freedom.png"
 ---
 <strong>５％</strong><br />
 <span style="color: deeppink"><strong>🚕Lyft</strong></span><br /><br />
-<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
-💸ペイパル 【PayPal】　<br />
-🏬卸売クラブ【Warehouse Clubs】 <br />
+<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
+🍔レストラン【Restaurants】<br />
+📙アマゾン【Amazon.com】<br />
+🏨ホテル【Hotels】<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 💸ペイパル 【PayPal】　<br /> -->
+<!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
 
 <!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
 
