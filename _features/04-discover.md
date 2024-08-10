@@ -5,12 +5,12 @@ heading: Discover
 subheading: "📅"
 image: "assets/img/discover.png"
 ---
-<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
-📙アマゾン【Amazon.com】<br />
-🎯ターゲット 【Target】　<br />
+<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
+⛽ガソリンスタンド 【Gas Stations】　<br />
+🔨ホームセンター 【Home Improvement Stores】 <br />
 
-
-<!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
+<!-- 📙アマゾン【Amazon.com】<br /> -->
+<!-- 🎯ターゲット 【Target】　<br /> -->
 
 <!-- 🍔レストラン【Restaurants】 <br /> -->
 <!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
