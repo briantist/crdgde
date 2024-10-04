@@ -7,19 +7,22 @@ image: "assets/img/freedom.png"
 ---
 <strong>５％</strong><br />
 <span style="color: deeppink"><strong>🚕Lyft</strong></span><br /><br />
-<strong>7月</strong>から<strong>9月末</strong>まで<strong>5%</strong> <br />
-⛽ガソリンスタンド 【Gas Stations】　<br />
-🍿映画館【Movie Theaters】 <br />
-⚡電気自動車チャージャー【EV Charging】 <br />
-👩‍🎤ライヴエンタテインメント【Select Live Entertainment】 <br />
+<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
+💸ペイパル 【PayPal】　<br />
+🍟マクドナルド【McDonald's】<br />
+🐱獣医とペットショップ【Pet Shops & Vet Services】<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
+<!-- 🍿映画館【Movie Theaters】 <br /> -->
+<!-- ⚡電気自動車チャージャー【EV Charging】 <br /> -->
+<!-- 👩‍🎤ライヴエンタテインメント【Select Live Entertainment】 <br /> -->
 
 <!-- 🍔レストラン【Restaurants】<br /> -->
 <!-- 📙アマゾン【Amazon.com】<br /> -->
 <!-- 🏨ホテル【Hotels】<br /> -->
 
-<!-- 💸ペイパル 【PayPal】　<br /> -->
 <!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
 
 
