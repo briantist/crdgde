@@ -5,14 +5,18 @@ heading: Chase Freedom
 subheading: "📅"
 image: "assets/img/freedom.png"
 ---
-<strong>５％</strong><br />
-<span style="color: deeppink"><strong>🚕Lyft</strong></span><br /><br />
-<strong>10月</strong>から<strong>12月末</strong>まで<strong>5%</strong> <br />
-💸ペイパル 【PayPal】　<br />
-🍟マクドナルド【McDonald's】<br />
-🐱獣医とペットショップ【Pet Shops & Vet Services】<br />
+<strong>3月末</strong>まで<strong>5%</strong> <br />
+<span style="color: deeppink"><strong>🚕Lyft</strong></span><br />
+<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
+🛒食料品店 【Grocery Stores】　<br />
+🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br />
+💅ヘアとネイルとスパ 【Nail, Hair, & Spa】<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 💸ペイパル 【PayPal】　<br /> -->
+<!-- 🍟マクドナルド【McDonald's】<br /> -->
+<!-- 🐱獣医とペットショップ【Pet Shops & Vet Services】<br /> -->
 
 <!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
 <!-- 🍿映画館【Movie Theaters】 <br /> -->
