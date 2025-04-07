@@ -7,12 +7,14 @@ image: "assets/img/freedom.png"
 ---
 <strong>3月末</strong>まで<strong>5%</strong> <br />
 <span style="color: deeppink"><strong>🚕Lyft</strong></span><br />
-<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
-🛒食料品店 【Grocery Stores】　<br />
-🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br />
-💅ヘアとネイルとスパ 【Nail, Hair, & Spa】<br />
+<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
+📙アマゾン【Amazon.com】<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 🛒食料品店 【Grocery Stores】　<br /> -->
+<!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
+<!-- 💅ヘアとネイルとスパ 【Nail, Hair, & Spa】<br /> -->
 
 <!-- 💸ペイパル 【PayPal】　<br /> -->
 <!-- 🍟マクドナルド【McDonald's】<br /> -->
@@ -24,7 +26,6 @@ image: "assets/img/freedom.png"
 <!-- 👩‍🎤ライヴエンタテインメント【Select Live Entertainment】 <br /> -->
 
 <!-- 🍔レストラン【Restaurants】<br /> -->
-<!-- 📙アマゾン【Amazon.com】<br /> -->
 <!-- 🏨ホテル【Hotels】<br /> -->
 
 <!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->

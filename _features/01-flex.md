@@ -12,12 +12,14 @@ image: "assets/img/flex.png"
 🍔レストラン【Restaurants】<br />
 💊薬局　【CVS、Rite-Aid、Duane Reade、もっと】 <br />
 
-<strong>1月</strong>から<strong>3月末</strong>まで<strong>5%</strong> <br />
+<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
 🛒食料品店 【Grocery Stores】　<br />
-🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br />
-💅ヘアとネイルとスパ 【Nail, Hair, & Spa】<br />
+📙アマゾン【Amazon.com】<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
+<!-- 💅ヘアとネイルとスパ 【Nail, Hair, & Spa】<br /> -->
 
 <!-- 💸ペイパル 【PayPal】　<br /> -->
 <!-- 🍟マクドナルド【McDonald's】<br /> -->
@@ -28,7 +30,6 @@ image: "assets/img/flex.png"
 <!-- ⚡電気自動車チャージャー【EV Charging】 <br /> -->
 <!-- 👩‍🎤ライヴエンタテインメント【Select Live Entertainment】 <br /> -->
 
-<!-- 📙アマゾン【Amazon.com】<br /> -->
 <!-- 🏨ホテル【Hotels】<br /> -->
 
 <!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
