@@ -5,9 +5,12 @@ heading: Discover
 subheading: "📅"
 image: "assets/img/discover.png"
 ---
-<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
-🛒食料品店 【Grocery Stores】　<br />
-🏬卸売クラブ【Warehouse Clubs】 <br />
+<strong>7月</strong>から<strong>9月末</strong>まで<strong>5%</strong> <br />
+⛽ガソリンスタンド 【Gas Stations】　<br />
+🚆公共交通機関【Public Transit】<br />
+
+<!-- 🛒食料品店 【Grocery Stores】　<br /> -->
+<!-- 🏬卸売クラブ【Warehouse Clubs】 <br /> -->
 
 <!-- 🍔レストラン【Restaurants】 <br /> -->
 <!-- 🔨ホームセンター 【Home Improvement Stores】 <br /> -->
@@ -16,9 +19,6 @@ image: "assets/img/discover.png"
 <!-- 🎯ターゲット 【Target】　<br /> -->
 
 <!-- 🏬ワル・マート 【Walmart】　<br /> -->
-
-<!-- ⛽ガソリンスタンド 【Gas Stations】　<br /> -->
-
 
 <!-- 💊薬局　【Pharmacies/Drug Stores】<br /> -->
 

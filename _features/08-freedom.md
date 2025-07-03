@@ -7,10 +7,15 @@ image: "assets/img/freedom.png"
 ---
 <strong>3月末</strong>まで<strong>5%</strong> <br />
 <span style="color: deeppink"><strong>🚕Lyft</strong></span><br />
-<strong>4月</strong>から<strong>6月末</strong>まで<strong>5%</strong> <br />
-📙アマゾン【Amazon.com】<br />
+<strong>7月</strong>から<strong>9月末</strong>まで<strong>5%</strong> <br />
+⛽ガソリンスタンド 【Gas Stations】　<br />
+⚡電気自動車チャージャー【EV Charging】 <br />
+👩‍🎤ライヴエンタテインメント【Select Live Entertainment】 <br />
+🥕インスタカート【Instacart】<br />
 <br />
 ✈️🚫国際的に使用してはいけない【No International Use】
+
+<!-- 📙アマゾン【Amazon.com】<br /> -->
 
 <!-- 🛒食料品店 【Grocery Stores】　<br /> -->
 <!-- 🤸ジムとフィットネスクラブ 【Gym & Fitness Memberships】 <br /> -->
